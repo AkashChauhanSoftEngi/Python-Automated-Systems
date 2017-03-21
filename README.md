@@ -23,4 +23,4 @@ Libraris like:
 * python
 * pip
 
-<!---I have shared only few details here but not the actual code, the code includes private information of the company I have created for!--->
+<tt>I have shared only few details here but not the actual code, the code includes private information of the company I have created for!<tt>.
