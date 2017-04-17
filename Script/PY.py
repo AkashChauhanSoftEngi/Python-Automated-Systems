@@ -12,11 +12,7 @@ import openpyxl
 import re
 import string
 
-#Sheet1??
-#print("Phase1-Wait.....!")
-print ("?????????")
-
 root = tk.Tk()
 root.withdraw()
-file_path = filedialog.askopenfilename(title='???????????????')
+file_path = filedialog.askopenfilename(title='xxxxxxx')
 #Rest content deleted!
